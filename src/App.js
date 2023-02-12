@@ -16,7 +16,7 @@ function App() {
     <Router>
       <Header />
       <div className='w-full flex justify-center cursor-default'>
-      <div className='border-8 border-t-4 bg-black-300 border-black-500 w-[95vw] sm:w-[90vw] rounded-xl p-3 text-center cursor-default'>
+      <div className='border-8 border-t-4 bg-black-300 border-slate-500 w-[95vw] sm:w-[90vw] rounded-xl p-3 text-center cursor-default'>
     <Routes>
     <Route exact path="/" element={<Home />} />
     <Route exact path="/about" element={<About />} />

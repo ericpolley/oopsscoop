@@ -12,7 +12,7 @@ export default function Home() {
 As the owner and only worker, Eric Polley, I understand the importance of a clean and safe yard for both you and your furry friends. That's why I am dedicated to providing the best possible service and ensuring that your yard is free of any unpleasant odors and health hazards.
 <br /><br />
 </p>
-<img className='rounded-full h-60 border-4 border-slate-400 m-6' src="https://media.licdn.com/dms/image/D5603AQHR4JAjJUbPNQ/profile-displayphoto-shrink_800_800/0/1665516589812?e=1681948800&v=beta&t=sXQryTPzns6xF1aPjgffrcDIp5zCQp5F6mc3QFn6baM"
+<img className='rounded-full h-60 border-4 border-b-8 border-slate-500 m-6' src="https://media.licdn.com/dms/image/D5603AQHR4JAjJUbPNQ/profile-displayphoto-shrink_800_800/0/1665516589812?e=1681948800&v=beta&t=sXQryTPzns6xF1aPjgffrcDIp5zCQp5F6mc3QFn6baM"
          alt="oopsScoop" />
 <p className=' text-lg lg:mt-8 mt-4 md:ml-28 md:mr-28'>
 At OopsScoop, we offer two convenient options for your dog waste removal needs: weekly pickup and one-time pickup. Our weekly pickup service starts at just $25, giving you the peace of mind of a clean yard every week. If you prefer a one-time pickup, we offer that too! For just $110, we'll come and clean up your yard in no time.

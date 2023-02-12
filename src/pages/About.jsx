@@ -20,7 +20,7 @@ Thank you for considering OopsScoop for your dog waste removal needs. We look fo
 
 
         </p>
-        <img className='rounded-full h-36 border-4 border-slate-400 m-6' src="https://media.licdn.com/dms/image/D5603AQHR4JAjJUbPNQ/profile-displayphoto-shrink_800_800/0/1665516589812?e=1681948800&v=beta&t=sXQryTPzns6xF1aPjgffrcDIp5zCQp5F6mc3QFn6baM"
+        <img className='rounded-full h-36 border-4 border-slate-500 m-6' src="https://media.licdn.com/dms/image/D5603AQHR4JAjJUbPNQ/profile-displayphoto-shrink_800_800/0/1665516589812?e=1681948800&v=beta&t=sXQryTPzns6xF1aPjgffrcDIp5zCQp5F6mc3QFn6baM"
          alt="oopsScoop" />
         <div className='flex flex-row justify-center items-center md:space-x-6 space-x-2 mb-6'>
          {/* Social media */}
