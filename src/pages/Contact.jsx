@@ -1,4 +1,6 @@
 import React from 'react'
+import ContactForm from './ContactForm'
+
 
 export default function Contact() {
   return (
@@ -7,7 +9,8 @@ export default function Contact() {
        <div className='w-full text-center'>
       <h1 className='text-2xl font-medium m-6'>Contact</h1>
       <div className='flex flex-col justify-center items-center'>
-      <div className='flex flex-col flex-wrap border-4 w-[360px] bg-slate-100 mb-12'>
+      <ContactForm />
+      <div className='flex flex-col flex-wrap border-4 w-[360px] mt-24 bg-slate-100 mb-12'>
       <p className='m-6 text-xl'>Eric Polley</p>
 
       
@@ -21,6 +24,8 @@ export default function Contact() {
 </div>
 
 </div>
+
+
 </div>
 </div>
     </div>
