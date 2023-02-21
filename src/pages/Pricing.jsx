@@ -60,7 +60,7 @@ export default function Pricing() {
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Weekly pickup. <span className="bg-red-400 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> F </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
             <p>This package includes a one time pickup. <br /> We will leave the waste in your trash receptacle a tightly sealed waste bag  </p>
-            <p className="font-bold mt-6">$109.00 per week </p>
+            <p className="font-bold mt-6">$109.00 </p>
             </div>
             {/* package end */}
             
