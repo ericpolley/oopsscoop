@@ -57,7 +57,7 @@ export default function Pricing() {
             {/* package end */}
             {/* package start */}
           <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
-            <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Weekly pickup. <span className="bg-red-400 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> F </span> </p> 
+            <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> One Time pickup. <span className="bg-red-400 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> F </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
             <p>This package includes a one time pickup. <br /> We will leave the waste in your trash receptacle a tightly sealed waste bag  </p>
             <p className="font-bold mt-6">$109.00 </p>
