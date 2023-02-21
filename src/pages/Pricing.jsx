@@ -25,7 +25,7 @@ export default function Pricing() {
           <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> More Dogs. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> B </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
-            <p>For each additional dog you have, add this to the bottom line ! <br /><br /> We will bag and haul away our findings when complete. </p>
+            <p>For each additional dog you have, add this to the bottom line ! <br /><br /><br /> . </p>
             <p className="font-bold mt-6">$9.50 per week </p>
             </div>
             {/* package end */}
