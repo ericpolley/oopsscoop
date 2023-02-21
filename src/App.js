@@ -7,6 +7,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Home from './pages/Home';
 import Footer from './components/Footer';
+import Pricing from './pages/Pricing';
 
 
 
@@ -22,6 +23,7 @@ function App() {
     <Route exact path="/" element={<Home />} />
     <Route exact path="/about" element={<About />} />
     <Route exact path="/contact" element={<Contact />} />
+    <Route exact path="/pricing" element={<Pricing />} />
 
 
     </Routes>
