@@ -36,7 +36,9 @@ export default function Header() {
 
             {/* NAV BAR LOGO */}
             <div className='mr-4'>
+            <Link to="/contact" >
                 {<img src={logo} className='h-20 mt-1' alt="OopsScoop.com" />}
+                </Link>
                 </div>
             <div className='mt-4'>
             <Link to="/" className=' mr-3 focus:text-blue-400 text-blue-700 hover:text-blue-300'>

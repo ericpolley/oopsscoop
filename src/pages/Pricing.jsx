@@ -26,7 +26,7 @@ export default function Pricing() {
           <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> More Dogs. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> B </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
-            <p>For each additional dog you have, add this to the bottom line ! <br /><br /><br /> . </p>
+            <p>For each additional dog you have, there is an additional charge of 9.50 added to your Weekly Pickup (A) ! <br /> . </p>
             <p className="font-bold mt-6">$9.50 per week </p>
             </div>
             {/* package end */}
@@ -44,7 +44,7 @@ export default function Pricing() {
           <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Big Yard. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> D </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
-            <p> My yard is larger than one quarter acre! <br /><br /> For yards that exceed .25 acre. </p>
+            <p> My yard is larger than one quarter acre!<br /> <span className="text-xs"> (Or if cleaning requirements exceeds one hour) </span>  <br /> Additional charge for every .25 acre. </p>
             <p className="font-bold mt-6">$4.50 per week </p>
             </div>
             {/* package end */}
@@ -52,7 +52,7 @@ export default function Pricing() {
           <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Acre of Yard. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> E </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
-            <p> My yard is larger than One acre! <br /> For yards that exceed one acre. <br /> <span className="text-sm text-gray-600">(may be combined with option D) </span> <br /><br /> </p>
+            <p> My yard is larger than One acre! <br /> For yards that exceed one acre. <span>Or Exceeds a two hour cleaning requirement</span>  <br /><br /> </p>
             <p className="font-bold mt-6">$14.50 per week </p>
             </div>
             {/* package end */}
