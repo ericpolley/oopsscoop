@@ -38,7 +38,7 @@ export default function Footer() {
             
             </div>
             
-            <p className='text-sm w-full text-stone-400 text-center pt-3 pb-3'>This website and it's content belong to Eric Polley 2023.</p>
+            <p className='text-sm w-full text-stone-400 text-center pt-3 pb-3'>OopsScoop.com 2023 -  Spokane Washington.</p>
         </div>
         
         </div>

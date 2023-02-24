@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 import Home from './pages/Home';
 import Footer from './components/Footer';
 import Pricing from './pages/Pricing';
+import Policies from './pages/Policies';
 
 
 
@@ -24,6 +25,7 @@ function App() {
     <Route exact path="/about" element={<About />} />
     <Route exact path="/contact" element={<Contact />} />
     <Route exact path="/pricing" element={<Pricing />} />
+    <Route exact path="/Policies" element={<Policies />} />
 
 
     </Routes>

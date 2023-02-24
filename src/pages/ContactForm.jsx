@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 
@@ -30,8 +31,8 @@ export default function ContactForm() {
 
 </form>
 </div>
-<p className=" text-md font-medium p-2">On our first visit, we will inspect the yard to ensure your plan fits your needs. <br /> <span className="text-sm font-thin"> Price may vary </span></p>
-<p className=" text-xs p-4">By submitting this form I understand and welcome contact by an OopsScoop representative.</p>
+<p className=" text-xs p-4">By submitting this form I understand and agree to the <br /> 
+<Link to="/Policies" className="mr-3 focus:text-blue-400 text-blue-700 hover:text-blue-300 font-medium text-lg"> OopsScoop company policies. </ Link> </p>
 </div></div>
 )
 }
