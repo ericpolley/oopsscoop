@@ -1,3 +1,4 @@
+import ContactForm from "./ContactForm";
 
 
 
@@ -18,7 +19,7 @@ export default function Pricing() {
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Weekly pickup. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> A </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
             <p>Weekly pickup, every week, on a recurring day of the week, <br /> We will leave the waste in your trash receptacle a tightly sealed waste bag  </p>
-            <p className="font-bold mt-6">$19.50 per week </p>
+            <p className="font-bold mt-6">$24.50 per week </p>
             </div>
             {/* package end */}
             {/* package start */}
@@ -60,7 +61,7 @@ export default function Pricing() {
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> One Time pickup. <span className="bg-red-400 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> F </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
             <p>This package includes a one time pickup. <br /> We will leave the waste in your trash receptacle a tightly sealed waste bag  </p>
-            <p className="font-bold mt-6">$109.00 </p>
+            <p className="font-bold mt-6">$119.00 </p>
             </div>
             {/* package end */}
             
@@ -68,6 +69,9 @@ export default function Pricing() {
             
 
         </div>
+
+ 
+        <ContactForm />
 
 
          <br /><br /><br />

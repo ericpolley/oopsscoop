@@ -8,14 +8,14 @@ export default function Home() {
       <h1 className='text-2xl font-medium mt-4 hidden'>Pooper Scooper in Spokane at affordable prices - Eric Polley</h1>
       <p className='font-medium text-2xl m-6'>OopsScoop.com</p>
       <p className=' text-lg lg:mt-8 mt-4 md:ml-28 md:mr-28'>
-      Welcome to OopsScoop.com, your trusted solution for all your dog waste needs in Spokane Washington. We are a locally owned and operated business, proudly serving your community with reliable and affordable poop scooping services.
+      Welcome to OopsScoop.com, your trusted solution for all your dog waste needs in <span className='font-bold'>Spokane Washington</span>. We are a locally owned and operated business, proudly serving your community with reliable and affordable poop scooping services.
 <br /><br />
-As the owner and only worker, Eric Polley, I understand the importance of a clean and safe yard for both you and your furry friends. That's why I am dedicated to providing the best possible service and ensuring that your yard is free of any unpleasant odors and health hazards.
+As a family owned business, we I understand the importance of a clean and safe yard for both you and your furry friends. That's why I am dedicated to providing the best possible service and ensuring that your yard is free of any unpleasant odors and health hazards.
 <br />
 </p>
 
 <p className=' text-lg lg:mt-8 mt-4 md:ml-28 md:mr-28'>
-At OopsScoop, we offer two convenient options for your dog waste removal needs: weekly pickup and one-time pickup. Our weekly pickup service starts at just $19.50, giving you the peace of mind of a clean yard every week. If you prefer a one-time pickup, we offer that too! For just $109, we'll come and clean up your yard in no time.
+At OopsScoop, we offer two convenient options for your dog waste removal needs: weekly pickup and one-time pickup. Our weekly pickup service starts at just $24.50, giving you the peace of mind of a clean yard every week. If you prefer a one-time pickup, we offer that too! For just $119.00, we'll come and clean up your yard in no time.
 <br /><br />
 Do you have multiple dogs? No problem! For each additional dog, we charge an additional $9.50. And for your convenience, you have the option to have us take the bagged dog waste with us for an extra $4.50, or we can leave it in your waste bin. Please note that prices may vary if your yard is larger than .25 acre, or if the dog waste cleaning exceeds one hour.
 <br /><br />
