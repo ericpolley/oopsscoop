@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import Policies from "./Policies";
 
 
 
@@ -27,12 +28,26 @@ export default function ContactForm() {
   <input className="text-center border w-full border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="date" id="date" name="date" /><br /><br />
   <label for="message">Comments: </label><br />
   <textarea className="border border-slate-500 w-full rounded-lg p-1 m-1 ml-3 font-medium hover:bg-red-100" id="message" name="message" placeholder="Hello, I would like to sign up for a weekly scoop pickup." rows="3" cols="30" /><br /><br />
-  <input className="border border-slate-500 rounded-lg m-1 ml-3 font-medium p-6 pl-10 pr-10 text-white bg-red-600 hover:bg-red-700 active:bg-red-800" type="submit" value="Send" />
+  
+  <div className="flex p-4">
+  <label for="policyAgreement" className="text-sm">Electronic Signature: <br />I read, understand, and agree with the <br />
+  <Link to="/policies" target="_blank" className="mr-3 focus:text-blue-400 text-blue-700 hover:text-blue-300 font-medium"> OopsScoop.com Policy </Link> </label>
+  
+  <input className="border-4 text-center w-[25%] p-2 border-black rounded-lg m-2 font-medium hover:bg-red-100" type="checkbox" id="policyAgreement" name="policyAgreement" required /><br /><br />
+  
+  
 
+  </div>
+
+  <div className="w-full h-28 mb-4 border-2 rounded-lg border-slate-500 hover:bg-slate-300 overflow-scroll flex flex-col"><Policies /></div> 
+
+  
+  
+  
+  <input className="border border-slate-500 rounded-lg m-1 font-medium p-6 pl-10 pr-10 text-white bg-red-600 hover:bg-red-700 active:bg-red-800" type="submit" value="Send" />
+  <p className="text-xs">Your Message will be sent by email. <br /> This helps us authenticate our clients email address.</p>
 </form>
 </div>
-<p className=" text-xs p-4">By submitting this form I understand and agree to the <br /> 
-<Link to="/Policies" className="mr-3 focus:text-blue-400 text-blue-700 hover:text-blue-300 font-medium text-lg"> OopsScoop company policies. </ Link> </p>
 </div></div>
 )
 }

@@ -124,24 +124,34 @@ and we will do our best to communicate any concerns or <br />
                   <span className='text-md font-thin text-sm'>
                   I, the undersigned client, hereby acknowledge and agree that I have voluntarily chosen to use the services of OopsScoop.com <br />
                    for the purpose of poop scoop service at my property. <br />
-                    In consideration for such services, I hereby agree to the terms of this Liability Waiver.
-                  <br />
-I acknowledge and understand that there are risks associated with the services provided by the Company, <br />
- including but not limited to, the risk of injury, loss, or damage resulting from the performance of the services. <br />
-  I understand that the Company cannot guarantee the complete removal of all dog waste from my property, <br />
-   and that there may be certain limitations to the services provided due to the condition or layout of my property.
+                    In consideration for such services, I hereby agree to the terms of this Liability Waiver.<br />
+                    hereby acknowledge that I have hired Oopscoop.com to provide pet waste removal services for my property.<br />
+                     As a condition of this agreement, I agree to the following terms:<br />
+                     <br />
+Assumption of Risk: I acknowledge that pet waste removal services may involve certain risks and hazards, <br />
+including, but not limited to, slips, falls, and exposure to pet waste. <br />
+I understand and accept these risks and voluntarily assume all risks associated <br />
+with the use of Oopscoop.com's services.<br />
 <br />
-In consideration for the services provided by the Company, I hereby release and forever discharge the Company, <br />
- its affiliates, directors, officers, agents, employees, successors and assigns, <br />
-  from any and all claims, demands, causes of action, damages, losses, liabilities, and expenses (including attorneys' fees) <br />
-   arising out of or in connection with the services provided by the Company, including but not limited to any injury, loss, or damage <br />
-    that may occur on my property as a result of the services provided by the Company.
+Release of Liability: I hereby release, discharge, and hold harmless Oopscoop.com, <br />
+its officers, employees, and agents from any and all claims, demands, causes of action, damages,<br />
+ or expenses arising out of or in connection with the use of Oopscoop.com's services. <br />
+ This release includes any claims, damages, or expenses resulting <br />
+ from personal injury, property damage, or wrongful death.<br />
+ <br />
+Indemnification: I agree to indemnify and hold harmless Oopscoop.com, <br />
+its officers, employees, and agents from any and all claims, demands, causes of action,<br />
+ damages, or expenses arising out of or in connection with my use of Oopscoop.com's services.<br />
+ <br />
+Acknowledgment of Understanding: I have read and understand this Liability Waiver, <br />
+and I am voluntarily signing it as evidence of my agreement to its terms.<br />
 <br />
-I hereby acknowledge that I have read and fully understand the terms of this Liability Waiver, <br />
- and that I am signing it voluntarily and without coercion. I further acknowledge <br />
-  that I am solely responsible for the risks associated with the services provided by the Company, <br />
-   and that I assume full responsibility for any injury, loss, or damage that may occur on my property <br />
-    as a result of the services provided by the Company.
+Governing Law: This Liability Waiver shall be governed by and construed in accordance<br />
+ with the laws of the state in which Oopscoop.com provides services.<br />
+ <br />
+I acknowledge that I have carefully read this Liability Waiver and fully understand its contents.<br />
+ I am aware that this is a release of liability and a contract between myself and Oopscoop.com,<br />
+  and I sign it of my own free will.<br />
 <br />
 By placing payment for services with the Company, I acknowledge and agree that I have read, <br />
  understood, and agreed to the terms of this Liability Waiver, as well as any other <br />
@@ -150,9 +160,7 @@ By placing payment for services with the Company, I acknowledge and agree that I
   <br />
   <br />
   <br />
-  <span className='font-semibold text-lg text-red-600'>
-  As stated on the invoice, you agree to the terms stated above by completing your payment.
-  </span>
+
    </span>
    <br /><br />
             
