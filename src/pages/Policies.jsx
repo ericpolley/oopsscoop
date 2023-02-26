@@ -57,7 +57,7 @@ export default function Policies() {
                     You can reach us by phone at  <br />
                     Polly's number 509-868-2745 or  <br />
                      Eric's number 509-868-2692.<br />
-                     Alternatively, you can email us directly at: <br /> ericpolley@live.com <br /> for any issues that may arise.<br />
+                     Alternatively, you can email us directly at: <br /> oopsscoop@usa.com <br /> for any issues that may arise.<br />
                      <br />
 We will make every effort to respond to your concerns or <br /> complaints within 24 hours of receipt of your message. <br />
 We take all feedback seriously, and we are dedicated to  <br /> ensuring that our clients are completely satisfied with our services. <br />

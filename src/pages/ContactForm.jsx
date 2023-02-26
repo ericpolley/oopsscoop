@@ -15,7 +15,7 @@ export default function ContactForm() {
         <div className='text-lg lg:m-2 m-1 flex flex-col justify-center items-center'>
           <p className=" font-medium text-2xl mb-4 mt-0">Contact us Today!</p>
           
-<form action="mailto:ericpolley@live.com" method="post" enctype="text/plain">
+<form action="mailto:oopsscoop@usa.com" method="post" enctype="text/plain">
   <label for="name">Name : </label>
   <input placeholder="Hugh Man" className="text-center border w-full border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="text" id="name" name="name" required /><br /><br />
    <label for="address">Address:</label>
