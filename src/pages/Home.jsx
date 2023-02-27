@@ -11,7 +11,7 @@ export default function Home() {
       <p className=' text-lg lg:mt-8 mt-4 md:ml-28 md:mr-28'>
       Welcome to OopsScoop.com, your trusted solution for all your dog waste needs in <span className='font-bold'>Spokane Washington</span>. We are a locally owned and operated business, proudly serving your community with reliable and affordable poop scooping services.
 <br /><br />
-As a family owned business, we I understand the importance of a clean and safe yard for both you and your furry friends. That's why I am dedicated to providing the best possible service and ensuring that your yard is free of any unpleasant odors and health hazards.
+As a family owned business, we understand the importance of a clean and safe yard for both you and your furry friends. That's why we are dedicated to providing the best possible service and ensuring that your yard is free of any unpleasant odors and health hazards.
 <br />
 </p>
 
