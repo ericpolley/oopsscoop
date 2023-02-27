@@ -9,6 +9,7 @@ import Home from './pages/Home';
 import Footer from './components/Footer';
 import Pricing from './pages/Pricing';
 import Policies from './pages/Policies';
+import Agreement from './pages/Agreement';
 
 
 
@@ -26,6 +27,7 @@ function App() {
     <Route exact path="/contact" element={<Contact />} />
     <Route exact path="/pricing" element={<Pricing />} />
     <Route exact path="/Policies" element={<Policies />} />
+    <Route exact path="/agreement" element={<Agreement />} />
 
 
     </Routes>

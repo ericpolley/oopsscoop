@@ -1,74 +1,74 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 
-export default function Policies() {
+export default function Agreement() {
   return (
     <div>
       
        <div className='w-full text-center'>
-      <h1 className='text-2xl font-medium m-6'>Policies</h1>
+      <h1 className='text-2xl font-medium m-1'>Policies</h1>
       <div className='flex flex-col justify-center items-center'>
-            <p className=' text-lg font-medium border-slate-500 p-8 bg-slate-200 rounded-lg border-2'>Here at OopScoop.com, our policy is to provide the best service we possibly can!</p>
-            <p className='font-thin mt-8'>By requesting OopsScoop Service, I agree to the following:</p>
-            <ul className='pl-12 pr-12 mt-6 mb-8'>
-            <li className='text-lg font-medium p-2'>First visit Inspection</li>
-                  <span className='text-md font-thin text-sm'>To guarantee proper pick-up plan placement, <br /> we evaluate upon inspection of our first visit. <br />
-                   We practice equality with our clients and want <br /> to ensure our clients are billed properly! </span>
-                   <br /><br />
-                   <li className='text-lg font-medium p-2'>Scheduling Policy</li>
+            
+            <p className='font-thin mt-1'>By requesting OopsScoop Service, I agree to the following:</p>
+            <ul className='pl-12 pr-12 mt-1 mb-8'>
+            <li className=' font-medium p-2'>First visit Inspection</li>
+                  <span className='text-md font-thin text-sm'>To guarantee proper pick-up plan placement, we evaluate upon inspection of our first visit. <br />
+                   We practice equality with our clients and want to ensure our clients are billed properly! </span>
+                   <br />
+                   <li className=' font-medium p-2'>Scheduling Policy</li>
                   <span className='text-md font-thin text-sm'>
                   At OopsScoop.com, we are dedicated to providing timely and reliable poop scoop services to our clients.<br />
                   We schedule a weekly pickup day that works for both the client and our team,<br />
                    and we guarantee that we will pick up before dark on that day.<br />
-                   If there are any issues that may affect our ability <br />
+                   If there are any issues that may affect our ability 
                     to complete the scheduled pickup, such as unsafe road conditions, <br />
-                   inclement weather, or other unexpected circumstances, <br />
+                   inclement weather, or other unexpected circumstances, 
                     we will notify the client via email and/or text <br />
-                   to provide a courtesy notice of any necessary rescheduling. <br />
+                   to provide a courtesy notice of any necessary rescheduling. 
                     We will work with our clients to find a mutually agreed-upon <br />
-                   alternative pickup day that works for both parties.<br />
+                   alternative pickup day that works for both parties.
                    Our goal is to ensure that our clients are satisfied with our services and<br />
                     that their properties remain clean and free of dog waste.
                          </span>
-                   <br /><br />
-                   <li className='text-lg font-medium p-2'>Payment Policy</li>
+                   <br />
+                   <li className=' font-medium p-2'>Payment Policy</li>
                   <span className='text-md font-thin text-sm'>All services are paid in advanced and scheduled per client request. <br /> Failure to complete payment in any way will result in 
                   a pause of service.
                   <br />
                   Invoices are sent by mail or email, and are due on the 15th of every month. 
-                  <br /><br />
-                  For new OopsScoop members,<br /> payment is required in advance for pick-up days up until <br /> the 15th day of the current month.<br />
-                   If the member begins service after the 15th day of the current month,<br />
-                    payment will be required in advance for pick-up days up until <br /> the 15th day of the following month. <br />
-                   </span>
-                   <br />
-                  <li className='text-lg font-medium p-2'>Cancelation Policy <br />
-                  <span className='text-md font-thin text-sm'>You may cancel at any time! <br /> The service will expire on the following billing cycle, <br /> and you will no longer be billed.</span>
-                  </li>
                   <br />
+                  For new OopsScoop members,<br /> payment is required in advance for pick-up days up until the 15th day of the current month.<br />
+                   If the member begins service after the 15th day of the current month,<br />
+                    payment will be required in advance for pick-up days up until the 15th day of the following month. <br />
+                   </span>
+     
+                  <li className=' font-medium p-2'>Cancelation Policy <br />
+                  <span className='text-md font-thin text-sm'>You may cancel at any time! <br />
+                   The service will expire on the following billing cycle, and you will no longer be billed.</span>
+                  </li>
+                 
 
-                  <li className='text-lg font-medium p-2'>Communication Policy <br />   </li>
+                  <li className=' font-medium p-2'>Communication Policy <br />   </li>
                   <span className='text-md font-thin text-sm'>
                   At Oopscoop.com, we are committed to clear and timely communication with our clients. <br />
                   If you have any concerns or complaints about our services,  <br />
                    we encourage you to contact us as soon as possible<br />
-                   so that we can address them promptly.<br />
+                   so that we can address them promptly.
                     You can reach us by phone at  <br />
-                    Polly's number 509-868-2745 or  <br />
+                    Polly's number 509-868-2745 or  
                      Eric's number 509-868-2692.<br />
-                     Alternatively, you can email us directly at: <br /> oopsscoop@usa.com <br /> for any issues that may arise.<br />
-                     <br />
-We will make every effort to respond to your concerns or <br /> complaints within 24 hours of receipt of your message. <br />
-We take all feedback seriously, and we are dedicated to  <br /> ensuring that our clients are completely satisfied with our services. <br />
-If there are any changes to our schedule or services, <br /> we will notify our clients as soon as possible to minimize any inconvenience.<br />
+                     Alternatively, you can email us directly at: oopsscoop@usa.com  for any issues that may arise.<br />
+               
+We will make every effort to respond to your concerns or complaints within 24 hours of receipt of your message. <br />
+We take all feedback seriously, and we are dedicated to ensuring that our clients are completely satisfied with our services. <br />
+If there are any changes to our schedule or services, we will notify our clients as soon as possible to minimize any inconvenience.<br />
  Our goal is to maintain open and honest communication with our clients at all times and<br />
   to provide top-notch poop scoop services that exceed their expectations.
   </span>
                
-                  <br /><br />
+                  <br />
             
- <li className='text-lg font-medium p-2'>Confidentiality Policy </li>
+ <li className=' font-medium p-2'>Confidentiality Policy </li>
                   <span className='text-md font-thin text-sm'>
                   Collection of Information: We will only collect information that is necessary for the purpose of providing our poop scoop service. <br />
                   We will obtain consent from clients before collecting any personal information and will only use it for the purpose for which it was collected.
@@ -87,37 +87,43 @@ Once the information is no longer necessary, we will securely destroy or delete 
 <br />
 Confidentiality Agreement: All of our team members will be required to sign a confidentiality agreement, <br />
 which outlines their obligations to protect the privacy and confidentiality of client information.
+
 <br />
-As part of our commitment to providing high-quality poop scoop services, <br />
-we take before and after photos of every yard we service. <br />
+As part of our commitment to providing high-quality poop scoop services, 
+we take before and after photos of every yard we service. 
 By engaging our services, you agree to this policy and understand the benefits it provides.
 <br />
-The before photos enable us to assess the level of cleanup needed and identify any potential hazards or obstacles in the yard.<br />
- This helps us to plan and execute the job more efficiently and safely. The after photos document the quality of our work and<br />
+The before photos enable us to assess the level of cleanup needed and identify any potential hazards or obstacles in the yard.
+ This helps us to plan and execute the job more efficiently and safely. The after photos document the quality of our work and
   ensure that every inch of the yard has been thoroughly cleaned, leaving no debris behind.
   <br />
-Please note that all photos are kept confidential and used only for internal purposes.<br />
+Please note that all photos are kept confidential and used only for internal purposes.
  We respect your privacy and will never share any information without your permission.
  <br />
-If you have any questions or concerns about our photo policy or our poop scoop services, <br />
+If you have any questions or concerns about our photo policy or our poop scoop services, 
 please feel free to contact us at any time. We are always happy to address any issues and ensure your complete satisfaction.
                   
  </span>
- <br /><br />
+ <br />
 
 
- <li className='text-lg font-medium p-2'>No Access Policy</li>
-                  <span className='text-md font-thin text-sm'>f our scoops are unable to clean the yard due to a unaccessible yard, <br /> (e.g. locked gate, or physically blocked) <br /> you will be billed for a standard pick-up and <br /> we will contact you directly to make sure we may pick-up <br /> on the following regularly schedule pick-up.</span>
-                  <br /><br />
-                  <li className='text-lg font-medium p-2'>Dangerous Animal Policy</li>
-                  <span className='text-md font-thin text-sm'>If our scoopers are unable to clean the yard due to a dangerous animal, <br /> you will be billed for a standard pick-up and <br /> we will contact you directly to make sure we may pick-up <br /> on the following regularly schedule pick-up.</span>
+ <li className=' font-medium p-2'>No Access Policy</li>
+                  <span className='text-md font-thin text-sm'>If our scoops are unable to clean the yard due to a unaccessible yard, 
+                  <br /> (e.g. locked gate, or physically blocked) you will be billed for a standard pick-up and 
+                  <br /> we will contact you directly to make sure we may pick-up on the following regularly schedule pick-up.</span>
+                  <br />
+                  <li className=' font-medium p-2'>Dangerous Animal Policy</li>
+                  <span className='text-md font-thin text-sm'>If our scoopers are unable to clean the yard due to a dangerous animal,
+                  you will be billed for a standard pick-up and <br /> 
+                   we will contact you directly to make sure we may pick-up 
+                   on the following regularly schedule pick-up.</span>
       
             
          
 
-            <br /><br />
+            <br />
 
-            <li className='text-lg font-medium p-2'>Right to refuse service</li>
+            <li className=' font-medium p-2'>Right to refuse service</li>
                   <span className='text-md font-thin text-sm'>
                   At our poop scoop service, we reserve the right to refuse service to any client for any reason. <br />
                   We value respectful communication and professional conduct with our clients,<br />
@@ -133,8 +139,8 @@ and we will do our best to communicate any concerns or <br />
  However, if a client's behavior or property poses a significant risk to our team members <br />
   or interferes with our ability to provide quality service, we reserve the right to refuse service.
  </span>
-<br /><br />
- <li className='text-lg font-medium p-2'>Liability Waiver Policy </li>
+<br />
+ <li className=' font-medium p-2'>Liability Waiver Policy </li>
                   <span className='text-md font-thin text-sm'>
                   I, the undersigned client, hereby acknowledge and agree that I have voluntarily chosen to use the services of OopsScoop.com <br />
                    for the purpose of poop scoop service at my property. <br />
@@ -145,7 +151,7 @@ and we will do our best to communicate any concerns or <br />
 Assumption of Risk: I acknowledge that pet waste removal services may involve certain risks and hazards, <br />
 including, but not limited to, slips, falls, and exposure to pet waste. <br />
 I understand and accept these risks and voluntarily assume all risks associated <br />
-with the use of Oopscoop.com's services.<br />
+with the use of Oopscoop.com's services.
 <br />
 Release of Liability: I hereby release, discharge, and hold harmless Oopscoop.com, <br />
 its officers, employees, and agents from any and all claims, demands, causes of action, damages,<br />
@@ -171,17 +177,18 @@ By placing payment for services with the Company, I acknowledge and agree that I
  understood, and agreed to the terms of this Liability Waiver, as well as any other <br />
   policies or agreements posted on the Company's website.   
   <br />
-  <br />
-  <br />
-  <br />
+
 
    </span>
-   <br /><br />
+   
             
             </ul>
-            
-<p className='mb-16 mt-8 font-medium'>Have a question? <br /> Feel free to <span> <Link className="mr-3 underline focus:text-blue-400 text-blue-700 hover:text-blue-300 font-medium text-lg" to="/contact">Contact us today </Link> </span> </p>
-<br /><br />
+            <div className='text-left w-[80%] font-medium text-lg space-y-3 mb-8'>
+              <p className='mt-4 text-xl'>I read, understand, and agree to this document:</p>
+    <p>PRINT NAME:</p> <hr className='border-black' />        
+<p>SIGN:</p><hr className='border-black' /> 
+<p>DATE:</p><hr className='border-black' /> 
+</div>
 </div>
 </div>
     </div>
