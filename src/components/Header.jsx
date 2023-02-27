@@ -29,15 +29,15 @@ export default function Header() {
     <div className='bg-slate-200 sticky'>
         {/* HEADER */}
         
-    <div className='w-full flex flex-row justify-center shadow-xl mb-4  border-b-4 border-slate-500'>
+    <div className='w-full flex flex-row justify-center shadow-xl mb-3  border-b-4 border-slate-500'>
    {/* NAV BAR */}
-        <div className='w-[80vw] md:w-[60vw] flex mb-4 font-semibold items.center space-x-5 justify-between'>
+        <div className='w-[80vw] md:w-[60vw] flex font-semibold items.center space-x-5 justify-between'>
           
 
             {/* NAV BAR LOGO */}
             <div className='mr-4'>
             <Link to="/contact" >
-                {<img src={logo} className='h-20 mt-1' alt="OopsScoop.com" />}
+                {<img src={logo} className='h-16 xl:h-20 mt-1' alt="OopsScoop.com" />}
                 </Link>
                 </div>
             <div className='mt-4'>

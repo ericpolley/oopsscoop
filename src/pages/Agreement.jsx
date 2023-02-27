@@ -6,10 +6,10 @@ export default function Agreement() {
     <div>
       
        <div className='w-full text-center'>
-      <h1 className='text-2xl font-medium m-1'>Policies</h1>
+      <h1 className='text-2xl font-medium m-1'>Oops Scoop Policy Agreement</h1>
       <div className='flex flex-col justify-center items-center'>
             
-            <p className='font-thin mt-1'>By requesting OopsScoop Service, I agree to the following:</p>
+            <p className='font-thin mt-1'>By requesting Oops Scoop Service, I agree to the following:</p>
             <ul className='pl-12 pr-12 mt-1 mb-8'>
             <li className=' font-medium p-2'>First visit Inspection</li>
                   <span className='text-md font-thin text-sm'>To guarantee proper pick-up plan placement, we evaluate upon inspection of our first visit. <br />
@@ -143,38 +143,38 @@ and we will do our best to communicate any concerns or <br />
  <li className=' font-medium p-2'>Liability Waiver Policy </li>
                   <span className='text-md font-thin text-sm'>
                   I, the undersigned client, hereby acknowledge and agree that I have voluntarily chosen to use the services of OopsScoop.com <br />
-                   for the purpose of poop scoop service at my property. <br />
+                   for the purpose of poop scoop service at my property.
                     In consideration for such services, I hereby agree to the terms of this Liability Waiver.<br />
                     hereby acknowledge that I have hired Oopscoop.com to provide pet waste removal services for my property.<br />
                      As a condition of this agreement, I agree to the following terms:<br />
-                     <br />
+               
 Assumption of Risk: I acknowledge that pet waste removal services may involve certain risks and hazards, <br />
 including, but not limited to, slips, falls, and exposure to pet waste. <br />
 I understand and accept these risks and voluntarily assume all risks associated <br />
 with the use of Oopscoop.com's services.
-<br />
+
 Release of Liability: I hereby release, discharge, and hold harmless Oopscoop.com, <br />
 its officers, employees, and agents from any and all claims, demands, causes of action, damages,<br />
  or expenses arising out of or in connection with the use of Oopscoop.com's services. <br />
- This release includes any claims, damages, or expenses resulting <br />
+ This release includes any claims, damages, or expenses resulting
  from personal injury, property damage, or wrongful death.<br />
- <br />
-Indemnification: I agree to indemnify and hold harmless Oopscoop.com, <br />
+
+Indemnification: I agree to indemnify and hold harmless Oopscoop.com, 
 its officers, employees, and agents from any and all claims, demands, causes of action,<br />
  damages, or expenses arising out of or in connection with my use of Oopscoop.com's services.<br />
- <br />
+
 Acknowledgment of Understanding: I have read and understand this Liability Waiver, <br />
 and I am voluntarily signing it as evidence of my agreement to its terms.<br />
-<br />
+
 Governing Law: This Liability Waiver shall be governed by and construed in accordance<br />
  with the laws of the state in which Oopscoop.com provides services.<br />
- <br />
+
 I acknowledge that I have carefully read this Liability Waiver and fully understand its contents.<br />
- I am aware that this is a release of liability and a contract between myself and Oopscoop.com,<br />
+ I am aware that this is a release of liability and a contract between myself and Oopscoop.com,
   and I sign it of my own free will.<br />
-<br />
+
 By placing payment for services with the Company, I acknowledge and agree that I have read, <br />
- understood, and agreed to the terms of this Liability Waiver, as well as any other <br />
+ understood, and agreed to the terms of this Liability Waiver, as well as any other 
   policies or agreements posted on the Company's website.   
   <br />
 
