@@ -26,7 +26,7 @@ export default function Header() {
     
   return (
      
-    <div className='bg-slate-200 sticky'>
+    <div className='bg-slate-200 w-full'>
         {/* HEADER */}
         
     <div className='w-full flex flex-row justify-center shadow-xl mb-3  border-b-4 border-slate-500'>

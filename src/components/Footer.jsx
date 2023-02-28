@@ -6,7 +6,7 @@ export default function Footer() {
     
   return (
      
-    <div className='bg-slate-200 shadow-md sticky mt-4 border-b-4 border-t-4 border-slate-500 flex items-center justify-center flex-row'>
+    <div className='bg-slate-200 shadow-md sticky mt-4 border-b-4 border-t-4 border-slate-500 flex items-center justify-center flex-row w-full'>
         {/* HEADER */}
         
     <div className='w-full  md:w-[60vw]  h-16  '>
