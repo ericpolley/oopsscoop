@@ -22,7 +22,8 @@ At OopsScoop, We offer two options for your dog waste removal needs: weekly pick
 <br /><br />
 Do you have multiple dogs? No problem! For each additional dog, We charge an extra $9.50. Additionally, you have the option to have us take the bagged dog waste with us for an additional $4.50 or leave it in your waste bin for your convenience. Please note that prices may vary if your yard exceeds 0.25 acres, or if cleaning the dog waste takes longer than an hour.
 <br />
-<Link to="/pricing" className="mr-3 focus:text-blue-400 text-blue-700 hover:text-blue-300 font-medium text-lg"> Check out our Pricing page! </Link>
+<Link to="/pricing" className="mr-3 focus:text-blue-400 text-blue-700 hover:text-blue-300 font-medium text-lg" target="_blank"> 
+Check out our Pricing page! </Link>
 <br /><br />
 Don't let dog waste spoil your outdoor space. Schedule your first pickup with us today and experience the OopsScoop difference. We look forward to serving you!
       </p>
