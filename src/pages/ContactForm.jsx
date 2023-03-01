@@ -17,40 +17,54 @@ export default function ContactForm() {
           
 <form action="mailto:oopsscoop@usa.com" method="post" enctype="text/plain">
 <div className="flex justify-center items-center">
-  <label for="name" className="w-[30%]">Name : </label>
-  <input placeholder="Hugh Man" className="text-center border w-[70%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="text" id="name" name="name" required /><br /><br />
+  <label for="name" className="w-[25%]">Name : </label>
+  <input placeholder="Hugh Man" className="text-center border w-[75%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="text" id="name" name="name" required /><br /><br />
   </div>
 
   <div className="flex justify-center items-center">
-   <label for="address" className="w-[30%]">Address:</label>
+   <label for="address" className="w-[25%]">Address:</label>
   <input placeholder="123 avenue street, spokane wa"
   pattern="[0-9]+\s+([a-zA-Z]+|[a-zA-Z]+\s[a-zA-Z]+)" 
-   className="text-center  border w-[70%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100"
+   className="text-center  border w-[75%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100"
     type="address" id="address" name="address" required /><br /><br />
   </div>
 
   <div className="flex justify-center items-center">
-  <label for="tel" className="w-[30%]">Phone :</label>
-  <input placeholder="509-123-4567" className="text-center border w-[70%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="tel" id="phone" name="phone" required />
+  <label for="tel" className="w-[25%]">Phone :</label>
+  <input placeholder="509-123-4567" className="text-center border w-[75%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="tel" id="phone" name="phone" required />
   <br /><br />
   </div>
 
   <div className="flex justify-center items-center">
   <label for="date" className="w-[50%]">How many dogs? : </label>
-  <input placeholder="1" min="1" max="12" className="text-center border border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100 w-[50%]" type="number" id="dognumber" name="dognumber" required /><br /><br />
+  <input placeholder="1" min="1" max="12" 
+  className="text-center border border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100 w-[50%]" 
+  type="number" id="numberOfDogs" name="numberOfDogs" required /><br /><br />
 </div>
 
   <div className="flex justify-center items-center">
   <label for="frequency" className="w-[50%]">What plan fits you?</label>
-  <select id="frequency" name="frequency" size="1" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%]" multiple required>
+  <select id="frequency" name="frequency" size="1" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%] text-center" multiple required>
     <option value="Weekly Pick-up">Weekly Pick-up</option>
     <option value="One time Pick-up">One time </option>
   </select><br /><br />
   </div>
 
   <div className="flex justify-center items-center">
-  <label for="frequency" className="w-[50%]">How big is your yard?</label>
-  <select id="frequency" name="frequency" size="2" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%]" multiple required>
+  <label for="weeklyPickupDay" className="w-[50%]">What day works best?</label>
+  <select id="weeklyPickupDay" name="weeklyPickupDay" size="3" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%] text-center" multiple required>
+    <option value="Monday">Monday</option>
+    <option value="Tuesday">Tuesday</option>
+    <option value="Wednesday">Wednesday</option>
+    <option value="Thursday">Thursday</option>
+    <option value="Friday">Friday</option>
+    
+  </select><br /><br /><br /><br />
+  </div>
+
+  <div className="flex justify-center items-center">
+  <label for="sizeOfYard" className="w-[50%]">How big is your yard?</label>
+  <select id="sizeOfYard" name="sizeOfYard" size="2" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%] text-center" multiple required>
     <option value="Average">Average</option>
     <option value="Big">Big</option>
     <option value="Huge">Huge</option>
@@ -66,10 +80,11 @@ export default function ContactForm() {
 </ div>
 <div className="flex justify-center items-center">
 <label for="billingMethod" className="w-[50%]">Billing Method: </label>
-  <select id="billingMethod" name="billingMethod" size="2" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%]" multiple required>
+  <select id="billingMethod" name="billingMethod" size="2" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%] text-center" multiple required>
     <option value="Check by Mail">Check by Mail</option>
     <option value="Paypal">Paypal</option>
     <option value="Venmo">Venmo</option>
+    <option value="CashApp">CashApp</option>
   </select><br />
   </div>
 
