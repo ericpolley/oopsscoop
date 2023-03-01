@@ -14,7 +14,12 @@ export default function Policies() {
             <ul className='pl-12 pr-12 mt-6 mb-8'>
             <li className='text-lg font-medium p-2'>First visit Inspection</li>
                   <span className='text-md font-thin text-sm'>To guarantee proper pick-up plan placement, <br /> we evaluate upon inspection of our first visit. <br />
-                   We practice equality with our clients and want <br /> to ensure our clients are billed properly! </span>
+                   We practice equality with our clients and want <br /> to ensure our clients are billed properly! <br />
+                   Therefore the final weekly price will be determined on the first inspection, <br />
+                   meeting the pricing plan determined by OopsScoop.com payment standard.<br />
+                    After the first inspection, 
+                   the price is not subject to change after the first inspection if payments are made on time and in full
+                   </span>
                    <br /><br />
                    <li className='text-lg font-medium p-2'>Scheduling Policy</li>
                   <span className='text-md font-thin text-sm'>
@@ -38,7 +43,8 @@ export default function Policies() {
                   <br />
                   Invoices are sent by mail or email, and are due on the 15th of every month. 
                   <br /><br />
-                  For new OopsScoop members,<br /> payment is required in advance for pick-up days up until <br /> the 15th day of the current month.<br />
+                  For new OopsScoop members,<br /> After the first inspection: <br />
+                   Payment is required in advance for pick-up days up until <br /> the 15th day of the current month.<br />
                    If the member begins service after the 15th day of the current month,<br />
                     payment will be required in advance for pick-up days up until <br /> the 15th day of the following month. <br />
                    </span>
