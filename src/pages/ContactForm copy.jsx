@@ -10,7 +10,7 @@ export default function ContactForm() {
         <div className='text-lg lg:m-2 m-1 flex flex-col justify-center items-center'>
           <p className=" font-medium text-2xl mb-4 mt-0">Sign up Today!</p>
           
-<form action="https://oopsscoop.com/#/sendEmail.php" method="post" enctype="text/plain">
+<form action="mailto:oopsscoop@usa.com" method="post" enctype="text/plain">
 <div className="flex justify-center items-center">
   <label for="name" className="w-[25%]">Name : </label>
   <input placeholder="Hugh Man" className="text-center border w-[75%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100" type="text" id="name" name="name" required /><br /><br />
@@ -19,7 +19,7 @@ export default function ContactForm() {
   <div className="flex justify-center items-center">
    <label for="address" className="w-[25%]">Address:</label>
   <input placeholder="123 avenue street, spokane wa"
-  pattern="[0-9]+\s+([a-zA-Z]" 
+  pattern="[0-9]+\s+([a-zA-Z]+|[a-zA-Z]+\s[a-zA-Z]+)" 
    className="text-center  border w-[75%] border-slate-500 rounded-lg p-1 font-medium hover:bg-red-100"
     type="address" id="address" name="address" required /><br /><br />
   </div>
@@ -46,8 +46,8 @@ export default function ContactForm() {
   </div>
 
   <div className="flex justify-center items-center">
-  <label for="pickupDay" className="w-[50%]">What day works best?</label>
-  <select id="pickupDay" name="pickupDay" size="3" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%] text-center" multiple required>
+  <label for="weeklyPickupDay" className="w-[50%]">What day works best?</label>
+  <select id="weeklyPickupDay" name="weeklyPickupDay" size="3" className="ml-2 hover:bg-red-200 rounded-lg p-1 w-[50%] text-center" multiple required>
     <option value="Monday">Monday</option>
     <option value="Tuesday">Tuesday</option>
     <option value="Wednesday">Wednesday</option>
