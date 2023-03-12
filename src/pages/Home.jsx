@@ -18,7 +18,7 @@ As a family owned business, we understand the importance of a clean and safe yar
 <p className=' text-lg lg:mt-8 mt-4 md:ml-28 md:mr-28'>
 As a family-owned business, We understand the importance of maintaining a clean and safe yard for both you and your furry companions. Our dedication lies in providing you with the best possible service to ensure that your yard is free of unpleasant odors and health hazards.
 <br /><br />
-At OopsScoop, We offer two options for your dog waste removal needs: weekly pickup and one-time pickup. Our weekly pickup service starts at just $24.50, providing you with the peace of mind of a clean yard every week. If you prefer a one-time pickup, we offer that too! For just $119.00, We will efficiently clean up your yard.
+At OopsScoop, We offer three options for your dog waste removal needs: weekly pickup, bi-weekly, and one-time pickup. Our weekly/bi-weekly pickup service starts at just $24.50, providing you with the peace of mind of a clean yard every week. If you prefer a one-time pickup, we offer that too! For just $119.00, We will efficiently clean up your yard.
 <br /><br />
 Do you have multiple dogs? No problem! For each additional dog, We charge an extra $9.50. Additionally, you have the option to have us take the bagged dog waste with us for an additional $4.50 or leave it in your waste bin for your convenience. Please note that prices may vary if your yard exceeds 0.25 acres, or if cleaning the dog waste takes longer than an hour.
 <br />

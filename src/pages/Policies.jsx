@@ -12,11 +12,13 @@ export default function Policies() {
             <p className=' text-lg font-medium border-slate-500 p-8 bg-slate-200 rounded-lg border-2'>Here at OopScoop.com, our policy is to provide the best service we possibly can!</p>
             <p className='font-thin mt-8'>By requesting Oops Scoop Service, I agree to the following:</p>
             <ul className='pl-12 pr-12 mt-6 mb-8'>
-            <li className='text-lg font-medium p-2'>First visit Inspection</li>
+            <li className='text-lg font-medium p-2'>First visit Inspection</li>j
                   <span className='text-md font-thin text-sm'>To guarantee proper pick-up plan placement, <br /> we evaluate upon inspection of our first visit. <br />
                    We practice equality with our clients and want <br /> to ensure our clients are billed properly! <br />
                    Therefore the final weekly price will be determined on the first inspection, <br />
                    meeting the pricing plan determined by OopsScoop.com payment standard.<br />
+                   The first visit payment is subject to change. <br />
+                   If you, the client, requires a change of plan upon the first visit, you will be notified and billed within 72 hours. <br />
                     After the first inspection, 
                    the price is not subject to change after the first inspection if payments are made on time and in full
                    </span>
