@@ -45,7 +45,7 @@ export default function Policies() {
                   <br />
                   Invoices are sent by mail or email, and are due on the 15th of every month. 
                   <br /><br />
-                  For new OopsScoop members,<br /> After the first inspection: <br />
+                  For new OopsScoop members,<br /> 
                    Payment is required in advance for pick-up days up until <br /> the 15th day of the current month.<br />
                    If the member begins service after the 15th day of the current month,<br />
                     payment will be required in advance for pick-up days up until <br /> the 15th day of the following month. <br />
