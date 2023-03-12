@@ -16,7 +16,10 @@ export default function Agreement() {
                    We practice equality with our clients and want to ensure our clients are billed properly! <br />
                    Therefore the final weekly price will be determined on the first inspection, 
                    Meeting the pricing plan determined by OopsScoop.com payment 
-                   standard. After the first inspection, 
+                   standard.
+                   The first visit payment is subject to change. <br />
+                   If you, the client, requires a change of plan upon the first visit, you will be notified and billed within 72 hours. <br />
+                    After the first inspection, 
                    the price is not subject to change after the first inspection if payments are made on time and in full </span>
                    <br />
                    <li className=' font-medium p-2'>Scheduling Policy</li>
