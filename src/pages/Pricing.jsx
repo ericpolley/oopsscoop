@@ -17,6 +17,14 @@ export default function Pricing() {
         <div className='text-lg lg:m-8 m-4 md:ml-28 md:mr-28 flex flex-row overflow-auto items-center justify-center flex-wrap'>
           {/* package start */}
           <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
+            <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Initial pickup. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> . </span> </p> 
+            <hr className=" border-black w-[70%] border-2 m-1 " />
+            <p>For the first time we pick up, This is a one time first visit cost. <br /> We will leave the waste in your trash receptacle a tightly sealed waste bag  </p>
+            <p className="font-bold mt-6">$39.50 per visit </p>
+            </div>
+            {/* package end */}
+          {/* package start */}
+          <div className="w-[300px] shadow-lg shadow-slate-500 h-[280px] bg-slate-300 p-2 rounded-lg border-slate-600 border-2 flex flex-col items-center m-4">
             <p className="flex justify-center items-center font-semibold mt-2 mb-1 text-2xl"> Weekly pickup. <span className="bg-slate-700 border-white border-2 text-white p-2 rounded-full text-right ml-4 text-sm"> A </span> </p> 
             <hr className=" border-black w-[70%] border-2 m-1 " />
             <p>Weekly pickup, every week, on a recurring day of the week, <br /> We will leave the waste in your trash receptacle a tightly sealed waste bag  </p>

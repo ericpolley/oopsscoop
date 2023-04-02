@@ -17,7 +17,7 @@ export default function Policies() {
                    We practice equality with our clients and want <br /> to ensure our clients are billed properly! <br />
                    Therefore the final weekly price will be determined on the first inspection, <br />
                    meeting the pricing plan determined by OopsScoop.com payment standard.<br />
-                   The first visit payment is subject to change. <br />
+                   The first visit will be an Initial pickup charges. This charge will be upfront and on the invoice provided by Oops Scoop. <br />
                    If you, the client, requires a change of plan upon the first visit, you will be notified and billed within 72 hours. <br />
                     After the first inspection, 
                    the price is not subject to change after the first inspection if payments are made on time and in full
