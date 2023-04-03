@@ -19,6 +19,7 @@ export default function Policies() {
                    meeting the pricing plan determined by OopsScoop.com payment standard.<br />
                    The first visit will be an Initial pickup charges. This charge will be upfront and on the invoice provided by Oops Scoop. <br />
                    If you, the client, requires a change of plan upon the first visit, you will be notified and billed within 72 hours. <br />
+                   Therefore the first bill is subject to change. <br />
                     After the first inspection, 
                    the price stated on the invoice is not subject to change after the first inspection if payments are made on time and in full
                    </span>
